@@ -22,5 +22,20 @@
     "cross-env": "^5.1.4",
     "rimraf": "^2.6.2"
   },
-  "author": "Alasdair McLeay"
+  "author": "Alasdair McLeay",
+  "directories": {
+    "lib": "lib"
+  },
+  "peerDependencies": {
+    "prop-types": ">=15",
+    "react": ">=16.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penx/govuk-react-icon-crown.git"
+  },
+  "bugs": {
+    "url": "https://github.com/penx/govuk-react-icon-crown/issues"
+  },
+  "homepage": "https://github.com/penx/govuk-react-icon-crown#readme"
 }
