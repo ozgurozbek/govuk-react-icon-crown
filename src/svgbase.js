@@ -1,3 +1,6 @@
+import React from 'react';
+import PropTypes from 'prop-types';
+
 // TODO: import from @govuk-react/icons once it has been exported
 const SVG = ({
   children, fill, title, className, ...rest
