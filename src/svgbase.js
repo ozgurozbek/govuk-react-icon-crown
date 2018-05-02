@@ -10,12 +10,9 @@ const SVG = ({
     xmlns="http://www.w3.org/2000/svg"
     x="0px"
     y="0px"
-    width="100%"
-    height="100%"
     className={className}
     style={{ display: 'block' }}
     fill={fill}
-    viewBox="-0.2 0 17 14" // TODO: #238 why?
     {...rest}
   >
     <title>{title}</title>
