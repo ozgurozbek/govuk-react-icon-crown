@@ -3,7 +3,6 @@ const esModules = process.env["BABEL_ENV"] === "es";
 const presets = ["@babel/preset-env", "@babel/preset-react"];
 
 const plugins = [
-  "babel-plugin-styled-components",
   ["@babel/plugin-transform-runtime", { helpers: false, regenerator: true }],
 ];
 

@@ -34,8 +34,5 @@
   "bugs": {
     "url": "https://github.com/penx/govuk-react-icon-crown/issues"
   },
-  "homepage": "https://github.com/penx/govuk-react-icon-crown#readme",
-  "dependencies": {
-    "@govuk-react/icons": "^0.10.1"
-  }
+  "homepage": "https://github.com/penx/govuk-react-icon-crown#readme"
 }
