@@ -1,6 +1,6 @@
 import React from "react";
 
-import SVG from "./svg";
+import SVG from "./svgbase";
 
 const Crown = ({ fill, title, ...rest }) => (
   <SVG viewBox="0 0 28 21" title={title} fill={fill} {...rest}>
