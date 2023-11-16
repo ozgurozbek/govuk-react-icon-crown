@@ -24,6 +24,7 @@
   "directories": {
     "lib": "lib"
   },
+  "files": ["lib", "es"],
   "peerDependencies": {
     "react": ">=16.2.0"
   },
